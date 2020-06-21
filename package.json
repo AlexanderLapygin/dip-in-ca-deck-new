@@ -15,6 +15,9 @@
     "lint": "eslint './src/**/*.{ts,tsx}'",
     "lint:fix": "eslint --fix './src/**/*.{ts,tsx}'"
   },
+  "dependencies": {
+    "@types/jest": "25.2.3",
+  },
   "devDependencies": {
     "@testing-library/dom": "^7.10.1",
     "@testing-library/jest-dom": "^5.10.0",
