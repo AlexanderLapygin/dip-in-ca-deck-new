@@ -2,7 +2,6 @@
   "name": "ca-react-rest-api-starter",
   "version": "1.0.0",
   "private": true,
-  "version": "1.0.0",
   "scripts": {
     "start": "mdx-deck deck/ru/deck.mdx",
     "start-app": "react-scripts start",
@@ -92,4 +91,3 @@
   "author": "https://github.com/AlexanderLapygin",
   "license": "MIT"
 }
-
